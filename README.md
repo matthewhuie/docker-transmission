@@ -1,7 +1,7 @@
 # docker-transmission
 This is a Docker container that provides a lightweight and generic Transmission instance, based on Alpine Linux. It provides the latest version of Transmission, running on the latest version of Alpine Linux. This repository currently builds for multi-arch: ARMv7, ARM64, and AMD64.
 
-![buildx](https://github.com/matthewhuie/docker-transmission/workflows/buildx/badge.svg?branch=master)
+![buildx](https://github.com/matthewhuie/docker-transmission/workflows/buildx/badge.svg?branch=main)
 
 ## Getting Started
 Pull the image from Docker Hub.
