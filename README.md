@@ -14,8 +14,6 @@ Create and start a container. For example, use default configuration, publish 90
 docker run -d -p 9091:9091/tcp -p  matthewhuie/transmission
 ```
 
-For discovery, a sample Avahi service file is available in this repo.
-
 ## Links
 - https://github.com/matthewhuie/docker-transmission
 - https://hub.docker.com/r/matthewhuie/transmission
